@@ -1,4 +1,4 @@
-let str = "madams";
+let str = "madam";
 
 let start = 0;
 let end = str.length - 1;
