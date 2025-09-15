@@ -5,7 +5,6 @@ let set = new Set();
 let found = false;
 for (i = 0; i < arr.length; i++) {
   let num = target - arr[i];
-  x;
   if (set.has(num)) {
     found = true;
     break;
